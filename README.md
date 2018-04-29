@@ -1,4 +1,4 @@
 # hello-world
 test
 
-always look on the bright side of life
+sometimes look on the bright side of life
